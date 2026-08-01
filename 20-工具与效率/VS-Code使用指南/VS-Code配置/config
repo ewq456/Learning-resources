@@ -1,0 +1,56 @@
+
+Host 9.44-harmony64
+  HostName 192.168.9.44
+  User harmony64
+
+Host 11.23-yxy
+  HostName 192.168.11.23
+  User yxy
+
+Host 11.33-test
+  HostName 192.168.11.33
+  User test
+  
+Host 87.128-yxy
+  HostName 192.168.87.128
+  User yxy
+
+Host 18.40-root
+  HostName 192.168.18.40
+  User root
+
+Host 18.40-aarch64
+  HostName 192.168.18.40
+  User aarch64
+  
+Host 18.40-misp64
+  HostName 192.168.18.40
+  User mips64
+  
+Host 9.172-loongarh64
+  HostName 192.168.9.172
+  User loongarch64
+  
+Host 8.186-test
+  HostName 192.168.8.186
+  User test
+  
+Host 8.60-test
+  HostName 192.168.8.60
+  User test
+    
+Host 11.252-root
+  HostName 192.168.11.252
+  User root
+
+Host 11.14-root
+  HostName 192.168.11.14
+  User root
+
+Host 11.159-root
+  HostName 192.168.11.159
+  User root
+
+
+
+

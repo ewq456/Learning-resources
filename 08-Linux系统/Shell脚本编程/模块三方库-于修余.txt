@@ -1,0 +1,17 @@
+
+屏幕水印(二维码水印)
+	libzint.so.2.4.1 https://sourceforge.net/projects/zint/files/latest/download
+	
+屏幕录像
+	libyuv.a https://github.com/lemenkov/libyuv
+	libfaac.a https://github.com/knik0/faac
+	libx264.so.148 https://code.videolan.org/videolan/x264.git
+	libpulse.so.0.19.0 http://freedesktop.org/software/pulseaudio/releases/pulseaudio-0.9.19.tar.gz
+	libpulse.so.0.20.0 http://freedesktop.org/software/pulseaudio/releases/pulseaudio-0.9.20.tar.gz
+	libpulse.so.0.21.0 http://freedesktop.org/software/pulseaudio/releases/pulseaudio-0.9.21.tar.gz
+	libxcb-shm.so.0.0.0 https://mirror.tuna.tsinghua.edu.cn/sourceware/cygwin/x86_64/release/libxcb/libxcb-shm0/libxcb-shm0-1.15-1.tar.xz
+	libpulse-simple.so.0.1.1 https://mirror.tuna.tsinghua.edu.cn/sourceware/cygwin/x86_64/release/pulseaudio/libpulse-simple0/libpulse-simple0-17.0-2.tar.xz
+	libpulsecommon-13.99.so https://gitlab.freedesktop.org/pulseaudio/pulseaudio
+
+
+
